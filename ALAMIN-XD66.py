@@ -1,5 +1,5 @@
 # Source Generated with Decompyle++
-# File: test.pyc (Python 3.9)
+# File: ALAMIN-XD66.pyc (Python 3.9)
 
 import os
 import sys
